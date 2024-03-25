@@ -1,6 +1,6 @@
 # <div align="center"> ¡Hola 👋🏻! soy LDevlaCruzP </div>
 
-[![GitHub followers](https://img.shields.io/github/followers/ludedev?style=for-the-badge&logo=github)](https://github.com/LudeDev)
+[![GitHub followers](https://img.shields.io/github/followers/LDevlaCruzP?style=for-the-badge&logo=github)](https://github.com/LDevlaCruzP)
 
 ## 😄 &nbsp;Sobre mi
 
